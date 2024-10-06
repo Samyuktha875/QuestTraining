@@ -1,0 +1,7 @@
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\bin\Debug\reverseArray.exe.config
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\bin\Debug\reverseArray.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\bin\Debug\reverseArray.pdb
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\obj\Debug\reverseArray.csproj.AssemblyReference.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\obj\Debug\reverseArray.csproj.CoreCompileInputs.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\obj\Debug\reverseArray.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day3\ReverseArray\reverseArray\reverseArray\obj\Debug\reverseArray.pdb
