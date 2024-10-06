@@ -1,0 +1,7 @@
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\bin\Debug\OccurenceOfWords.exe.config
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\bin\Debug\OccurenceOfWords.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\bin\Debug\OccurenceOfWords.pdb
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\obj\Debug\OccurenceOfWords.csproj.AssemblyReference.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\obj\Debug\OccurenceOfWords.csproj.CoreCompileInputs.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\obj\Debug\OccurenceOfWords.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\OccurenceOfWords\OccurenceOfWords\obj\Debug\OccurenceOfWords.pdb

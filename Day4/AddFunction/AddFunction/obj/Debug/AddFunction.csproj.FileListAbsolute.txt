@@ -1,0 +1,7 @@
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\bin\Debug\AddFunction.exe.config
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\bin\Debug\AddFunction.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\bin\Debug\AddFunction.pdb
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\obj\Debug\AddFunction.csproj.AssemblyReference.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\obj\Debug\AddFunction.csproj.CoreCompileInputs.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\obj\Debug\AddFunction.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\AddFunction\AddFunction\obj\Debug\AddFunction.pdb

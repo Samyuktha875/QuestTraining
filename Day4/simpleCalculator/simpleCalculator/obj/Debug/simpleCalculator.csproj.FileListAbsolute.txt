@@ -1,0 +1,7 @@
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\slali\Desktop\QuestTrainingPrograms\Day4\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
